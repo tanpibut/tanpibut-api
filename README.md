@@ -1,2 +1,2 @@
 # tanpibut-api
-This is Tanpibut API
+This is TanPibut API
