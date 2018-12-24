@@ -1,9 +1,9 @@
 var pg = require('pg');
 var config = {
-    user: "UNERNAME",
+    user: "USERNAME",
     database: "DATABASE_NAME",
     password: "PASSWORD",
-    host: "DATABADE_HOST",
+    host: "DATABASE_HOST",
     port: 5432,
     max: 300,
     idleTimeoutMillis: 30000,
