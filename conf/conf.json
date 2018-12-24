@@ -1,0 +1,26 @@
+{
+    "11": {
+        "id": "11",
+        "type": "ColdWave",
+        "base": {
+            "id": "8",
+            "type": "MinimumTemperature"
+        },
+        "target": {
+            "id": "7",
+            "type": "Temperature8Celcius"
+        }
+    },
+    "12": {
+        "id": "12",
+        "type": "HotWave",
+        "base": {
+            "id": "9",
+            "type": "MaxTemperature"
+        },
+        "target": {
+            "id": "9",
+            "type": "MaxTemperature"
+        }
+    }
+}
